@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghost-core&label=Profile%20views&color=0e75b6&style=flat" alt="ghost-core" /> </p>
 
-- 👨‍💻 All of my projects are available at [aminahmadi.me](aminahmadi.me)
+- 👨‍💻 My portfolio: [aminahmadi.me](aminahmadi.me)
 
 - 📫 How to reach me **contact@aminahmadi.me**
 
